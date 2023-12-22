@@ -4,7 +4,7 @@ from telebot import types
 import sqlite3
 
 
-bot = telebot.TeleBot('6975282716:AAEax_3HQQ0EgrLRYGPW6iyMTQRdMnkTz-I')
+bot = telebot.TeleBot('YOUR_BOT_TOKEN')
 name = None
 
 # обработчик комманды /start
